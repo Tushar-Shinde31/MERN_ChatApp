@@ -116,7 +116,7 @@ SOCKET_PORT=your_socket_port
 
 ## 🌍 Deployment
 The application is deployed on Render and can be accessed at:
-[Live Demo](https://your-app-url.render.com)
+[Live Demo](https://mern-chatapp-25j8.onrender.com/)
 
 ---
 
