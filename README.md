@@ -14,9 +14,6 @@ A modern real-time chat application built using the **MERN stack** with a sleek 
 
 ## 📸 Screenshots
 
-### Application Screens
-<div style="display: flex; flex-direction: column; gap: 20px;">
-
 #### 1. 🔑 Login Page
 ![Screenshot (248)](https://github.com/user-attachments/assets/d00b061c-f40f-4d98-88ad-4f51da7d0dc1)
 
