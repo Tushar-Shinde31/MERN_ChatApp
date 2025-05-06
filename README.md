@@ -30,31 +30,6 @@ A modern real-time chat application built using the **MERN stack** with a sleek 
 
 ---
 
-## 🗂️ File and Folder Structure
-
-```
-.
-├── frontend               # React application (client-side)
-│   ├── public            # Static files
-│   ├── src               # Source code
-│       ├── components    # Reusable React components
-│       ├── pages         # Application pages
-│       ├── styles        # TailwindCSS and DaisyUI customizations
-│       └── App.js        # Main React component
-│   └── package.json      # Frontend dependencies
-├── backend                # Node.js application (server-side)
-│   ├── config            # Configuration files (e.g., database connection)
-│   ├── controllers       # API endpoint logic
-│   ├── models            # MongoDB schemas
-│   ├── routes            # API routes
-│   ├── server.js         # Main server file
-│   └── package.json      # Backend dependencies
-├── README.md              # Project documentation
-└── .gitignore             # Ignored files and folders
-```
-
----
-
 ## 🛠️ Technologies Used
 
 ### 🌐 Frontend:
